@@ -105,6 +105,3 @@ vlm-constraint-eval/
 }
 ```
 
-## License
-
-MIT
