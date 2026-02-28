@@ -1,0 +1,26 @@
+# Core ML
+torch>=2.0.0
+transformers>=4.45.0
+accelerate>=0.30.0
+
+# Vision
+Pillow>=10.0.0
+
+# OpenAI / API Judge
+openai>=1.0.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Utilities
+tqdm>=4.65.0
+python-dotenv>=1.0.0
+nltk>=3.8.0
+pyyaml>=6.0
+
+# Optional: for distributed inference
+# torch-distributed is bundled with torch
+
+# Optional: lmdeploy backend (uncomment if needed)
+# lmdeploy>=0.4.0
